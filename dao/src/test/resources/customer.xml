@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<customer>
+    <id>233658</id>
+    <name>Игорь Владимирович</name>
+    <orders>
+        <order>
+            <id>233658</id>
+            <positions>
+                <position>
+                    <id>233658</id>
+                    <price>30.0</price>
+                    <count>5</count>
+                </position>
+            </positions>
+        </order>
+    </orders>
+</customer>
